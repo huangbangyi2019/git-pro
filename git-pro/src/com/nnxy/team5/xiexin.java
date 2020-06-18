@@ -1,6 +1,7 @@
 package com.nnxy.team5;
 
 public class xiexin {
+	
 private int id;
 public int getId() {
 	return id;
