@@ -6,6 +6,7 @@ public class huangyixia {
 	private String name;
 	private String sex;
 	
+	
 	public String getSex() {
 		return sex;
 	}
