@@ -5,6 +5,7 @@ public class Guominghui {
 	private int id;
 	private char name;
 	private int sex;
+	
 	public int getId() {
 		return id;
 	}
