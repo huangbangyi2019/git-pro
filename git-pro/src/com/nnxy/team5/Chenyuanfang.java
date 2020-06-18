@@ -5,6 +5,7 @@ public class Chenyuanfang {
 	private int id;
 	private String name;
 	private String sex;
+	private String banji;
 	public int getId() {
 		return id;
 	}
@@ -22,6 +23,12 @@ public class Chenyuanfang {
 	}
 	public void setSex(String sex) {
 		this.sex = sex;
+	}
+	public String getBanji() {
+		return banji;
+	}
+	public void setBanji(String banji) {
+		this.banji = banji;
 	}
 
 }
